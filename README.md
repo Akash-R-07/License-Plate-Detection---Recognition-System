@@ -1,3 +1,1 @@
-License Plate Detection & Recognition System
-
 An AI-powered License Plate Detection and Recognition web application built using YOLO, OpenCV, Tesseract OCR, and Streamlit.This project detects vehicle number plates from uploaded car images, extracts the plate text using OCR, and matches the detected number with stored vehicle records.
